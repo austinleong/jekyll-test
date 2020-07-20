@@ -5,7 +5,7 @@ description: >
   Documentation and help for ChemMine Tools
 lang: en-US
 
-baseurl: "/jekyll-test/help" # the subpath of your site, e.g. /blog/
+#baseurl: "/jekyll-test/help" # the subpath of your site, e.g. /blog/
 url: "https://austinleong.github.io" # the base hostname & protocol for your site
 cmt_address: "https://chemminetools.ucr.edu"
 git_address: "https://github.com/girke-lab/chemminetools"
